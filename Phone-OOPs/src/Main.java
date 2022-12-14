@@ -13,6 +13,5 @@ public class Main {
         boolean isAnswering = l2.answerPhone();
 
 
-
     }
 }
